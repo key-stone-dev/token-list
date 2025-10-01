@@ -1,0 +1,7 @@
+{
+  "name": "Stone",
+  "symbol": "STONE",
+  "description": "Stone is a custom SPL token on Solana.",
+  "image": "https://raw.githubusercontent.com/key-stone-dev/stone-token-metadata/main/logo.png",
+  "attributes": []
+}
